@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 160, 122);
+    font-family: "Verenda", "DejaVu Sans", sans-serif;
+}
+
+#blue-man {
+    color : #0000ff;
+    font-size: 36px;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#green-man {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
